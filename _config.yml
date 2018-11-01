@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Monte Carlo Tree Search Webpage"
+title:       "Parallelization of Monte Carlo Tree Search"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page, webpage, 15418"
 description: "Eric Clinch and Jennifer Lee's webpage for their 15418 project on Monte Carlo Trees"
 source_link: "https://github.com/t413/SinglePaged"
